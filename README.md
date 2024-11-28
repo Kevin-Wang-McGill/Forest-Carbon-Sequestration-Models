@@ -6,7 +6,7 @@
 
 ## 🏆 Awards and Achievements
 
-- This project was awarded **Meritorious Winner (M Award)** in the **2024 Mathematical Contest in Modeling (MCM)**, organized by COMAP (Consortium for Mathematics and Its Applications).
+- This project was awarded **Meritorious Winner (M Award)** in the **2022 Mathematical Contest in Modeling (MCM)**, organized by COMAP (Consortium for Mathematics and Its Applications).
 - For more details, visit the [COMAP MCM/ICM Official Site](https://www.comap.com/undergraduate/contests/).
 
 ## 📜 Introduction
