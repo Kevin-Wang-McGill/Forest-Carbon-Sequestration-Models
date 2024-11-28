@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Tree.jpg" alt="Forest Logo" style="border-radius: 50%; width: 600px; height: 240px;">
+  <img src="./Images/Tree.jpg" alt="Forest Logo" style="border-radius: 50%; width: 600px; height: 240px;">
 </div>
 
 # 🌲 Forest-Carbon-Sequestration-Models 🌍
