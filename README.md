@@ -38,7 +38,7 @@ This repository contains the research and models from the paper **"Forest-Carbon
 - Predicted carbon fixation for 100 years using **LSTM Neural Networks** and **Logistic Growth Curve**.
 
 <div align="center">
-  <img src="./Images/Tree.jpg" alt="Forest Logo" style="border-radius: 50%; width: 600px; height: 400px;">
+  <img src="./Images/Tree.jpg" alt="Forest Logo" style="border-radius: 50%; width: 400px; height: 160px;">
 </div>
 
 
