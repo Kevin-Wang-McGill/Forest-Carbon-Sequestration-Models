@@ -11,7 +11,7 @@
 
 ## 📜 Introduction
 
-This repository contains the research and models from the paper **"Forest-Carbon-Sequestration-Models"**. The study explores sustainable forest management strategies to maximize carbon sequestration, biodiversity, and ecological benefits. It uses advanced modeling techniques like **Richards Equation**, **Logistic Growth Curve**, and **LSTM Neural Networks**.
+This repository contains the research and models from the paper **"Forest-Carbon-Sequestration-Models"**. The study explores sustainable forest management strategies to maximize carbon sequestration, biodiversity, and ecological benefits. It uses advanced modeling techniques like **Richards Equation**, **Logistic Growth Curve**, and **LSTM Neural Networks** with **✨MATLAB**.
 
 ## 🌳 Features
 
