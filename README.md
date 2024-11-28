@@ -1,4 +1,6 @@
-<img src="./Tree.jpg" alt="Logo" style="border-radius: 50%; width: 150px; height: 150px;">
+<div align="center">
+  <img src="./images/logo.png" alt="Forest Logo" style="border-radius: 50%; width: 200px; height: 200px;">
+</div>
 
 # 🌲 Forest-Carbon-Sequestration-Models 🌍
 
