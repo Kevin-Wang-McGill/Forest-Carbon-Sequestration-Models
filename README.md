@@ -4,6 +4,11 @@
 
 # 🌲 Forest-Carbon-Sequestration-Models 🌍
 
+## 🏆 Awards and Achievements
+
+- This project was awarded **Meritorious Winner (M Award)** in the **2024 Mathematical Contest in Modeling (MCM)**, organized by COMAP (Consortium for Mathematics and Its Applications).
+- For more details, visit the [COMAP MCM/ICM Official Site](https://www.comap.com/undergraduate/contests/).
+
 ## 📜 Introduction
 
 This repository contains the research and models from the paper **"Forest-Carbon-Sequestration-Models"**. The study explores sustainable forest management strategies to maximize carbon sequestration, biodiversity, and ecological benefits. It uses advanced modeling techniques like **Richards Equation**, **Logistic Growth Curve**, and **LSTM Neural Networks**.
@@ -47,3 +52,5 @@ This repository contains the research and models from the paper **"Forest-Carbon
 ## 📧 Contact
 
 For any questions, please contact [ziwei.wang3@mail.mcgill.ca](ziwei.wang3@mail.mcgill.ca).
+
+
