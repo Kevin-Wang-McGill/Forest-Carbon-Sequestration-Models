@@ -28,7 +28,7 @@ This repository contains the research and models from the paper **"Forest-Carbon
 ### 4. Case Study: Shenandoah National Park
 - Predicted carbon fixation for 100 years using **LSTM Neural Networks** and **Logistic Growth Curve**.
 
-  ## 📚 References
+## 📚 References
 
 - **Data sourced from:**
   - [Our World in Data](https://ourworldindata.org)
