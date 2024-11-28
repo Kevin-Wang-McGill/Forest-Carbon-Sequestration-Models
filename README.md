@@ -1,2 +1,3 @@
-# Forest-Carbon-Sequestration-Models
- This study optimizes forest management for carbon sequestration and ecosystem benefits.
+# 🌲 Forest-Carbon-Sequestration-Models 🌍
+
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
